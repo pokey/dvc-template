@@ -43,7 +43,7 @@ ipython-genutils==0.2.0
 isort==4.3.21
 jdcal==1.4.1
 jedi==0.15.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 jmespath==0.9.4
 json5==0.8.5
 jsonpath-ng==1.4.3
