@@ -113,7 +113,7 @@ traitlets==4.3.3
 treelib==1.5.5
 typed-ast==1.4.0
 typing-extensions==3.7.4.1
-urllib3==1.25.7
+urllib3==1.25.8
 voluptuous==0.11.7
 wcwidth==0.1.7
 webencodings==0.5.1
