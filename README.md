@@ -1,3 +1,5 @@
+**Note**: This repo is not currently maintained.  You may find it to be a useful starting point for your data science projects, but you'll want to upgrade the tools.  In particular, some of the dependencies have been flagged by dependabot for security vulnerabilities, but a full upgrade should fix that
+
 DVC Template
 ============
 
